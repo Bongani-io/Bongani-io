@@ -7,7 +7,7 @@ Web Developer and Designer
 l am currently pursuing my Bsc Information Systems degree. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 * 🌍  I'm based in Harare, Zimbabwe
-* ✉️  You can contact me at [graphkeytech@gmail.com](mailto:graphkeytech@gmail.com)
+* ✉️  You can contact me at [graphkeytech@gmail.com](mailto:seancube.sn@gmail.com)
 * 🧠  I'm learning Everything JavaScript
 * 💬 Ask me about Javascript and building cool projects 
 * 😄 Pronouns: he/him
