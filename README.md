@@ -11,7 +11,7 @@ l am currently pursuing my Bsc Information Systems degree. Knowledgeable in user
 * 🧠  I'm learning Everything JavaScript
 * 💬 Ask me about Javascript and building cool projects 
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: l can solve a Rubik's cude in 3 working days!
+* ⚡ Fun fact: l can solve a Rubik's Cube in 3 working days!
 
 <a href="https://www.github.com/Bongani-io" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Bongani-io?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/Bongani_io" target="_blank" rel="noreferrer"><img
